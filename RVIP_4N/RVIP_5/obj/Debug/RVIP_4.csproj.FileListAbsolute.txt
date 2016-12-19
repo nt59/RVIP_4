@@ -1,0 +1,15 @@
+C:\temp\RVIP_4N\RVIP_5\bin\Debug\RVIP_5.exe.config
+C:\temp\RVIP_4N\RVIP_5\obj\Debug\RVIP_5.exe
+C:\temp\RVIP_4N\RVIP_5\obj\Debug\RVIP_5.pdb
+C:\temp\RVIP_4N\RVIP_5\bin\Debug\RVIP_5.exe
+C:\temp\RVIP_4N\RVIP_5\bin\Debug\RVIP_5.pdb
+C:\temp\RVIP_4N\RVIP_5\bin\Debug\MPI.dll
+C:\temp\RVIP_4N\RVIP_5\bin\Debug\MPI.xml
+C:\temp\RVIP_4N\RVIP_5\obj\Debug\RVIP_4.csprojResolveAssemblyReference.cache
+C:\Users\Наталья\Desktop\4курс\7 семестр\Романов_РВиП\RVIP_4N\RVIP_5\bin\Debug\RVIP_5.exe.config
+C:\Users\Наталья\Desktop\4курс\7 семестр\Романов_РВиП\RVIP_4N\RVIP_5\obj\Debug\RVIP_5.exe
+C:\Users\Наталья\Desktop\4курс\7 семестр\Романов_РВиП\RVIP_4N\RVIP_5\obj\Debug\RVIP_5.pdb
+C:\Users\Наталья\Desktop\4курс\7 семестр\Романов_РВиП\RVIP_4N\RVIP_5\bin\Debug\RVIP_5.exe
+C:\Users\Наталья\Desktop\4курс\7 семестр\Романов_РВиП\RVIP_4N\RVIP_5\bin\Debug\RVIP_5.pdb
+C:\Users\Наталья\Desktop\4курс\7 семестр\Романов_РВиП\RVIP_4N\RVIP_5\bin\Debug\MPI.xml
+C:\Users\Наталья\Desktop\4курс\7 семестр\Романов_РВиП\RVIP_4N\RVIP_5\obj\Debug\RVIP_4.csprojResolveAssemblyReference.cache
